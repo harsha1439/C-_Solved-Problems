@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Series Champions", "World Series Champions\World Series Champions.csproj", "{57A38F39-04C7-401B-9F06-9A34A96DABBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A38F39-04C7-401B-9F06-9A34A96DABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A38F39-04C7-401B-9F06-9A34A96DABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A38F39-04C7-401B-9F06-9A34A96DABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A38F39-04C7-401B-9F06-9A34A96DABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08CFA8ED-55B9-412D-81FD-53452AFE5236}
+	EndGlobalSection
+EndGlobal

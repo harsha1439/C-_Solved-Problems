@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance Calculator", "Distance Calculator\Distance Calculator.csproj", "{907E7AD4-912F-4523-8D32-7705C84EEAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907E7AD4-912F-4523-8D32-7705C84EEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907E7AD4-912F-4523-8D32-7705C84EEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907E7AD4-912F-4523-8D32-7705C84EEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907E7AD4-912F-4523-8D32-7705C84EEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5091C960-33F4-4C52-B742-52774F409BE7}
+	EndGlobalSection
+EndGlobal
